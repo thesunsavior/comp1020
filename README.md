@@ -1,0 +1,3 @@
+# Easy scheduling with "Sister" 
+
+"Sister" is a production for the final project of  course COMP1020 with topic:"Digital Scheduling". Using the api provided by Vinuniversity, Sister attempt to provide a tool that help Vinuniversity students to better schedule their course and daily life. Sister was built with JavaFX, which is required to run, Java and SQL 
